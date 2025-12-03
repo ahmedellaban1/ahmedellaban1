@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/users/ahmedellaban1/achievements/quickdraw" style="text-decoration:none;">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60">
 </a>
-https://github.com/users/ahmedellaban1/achievements/yolo
 <a href="https://github.com/users/ahmedellaban1/achievements/yolo" style="text-decoration:none;">
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" height="60">
 </a>
